@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+artifacts/
+*.db
+*.db-shm
+*.db-wal
+src/MR.EPUB.Console/Properties/launchSettings.json
